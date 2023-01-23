@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa50ee75.css",
+    "main.js": "/static/js/main.b002c5ca.js",
+    "static/js/787.36d54bfe.chunk.js": "/static/js/787.36d54bfe.chunk.js",
+    "static/media/section3-text2.png": "/static/media/section3-text2.e02019c4f61e0a26c7de.png",
+    "static/media/section3-chart.png": "/static/media/section3-chart.2eb9a045e93f23f60142.png",
+    "static/media/section3-image.png": "/static/media/section3-image.9d09168d896440bff7e9.png",
+    "static/media/monitor.png": "/static/media/monitor.05419de150d1d2f8b085.png",
+    "static/media/bg_section3.png": "/static/media/bg_section3.9b3e4f779939d1819ec4.png",
+    "static/media/section2-text.png": "/static/media/section2-text.636cda8bdb4d81d77b52.png",
+    "static/media/GothamLight.ttf": "/static/media/GothamLight.03e7ff609ba3bf798fa4.ttf",
+    "static/media/GothamBold.ttf": "/static/media/GothamBold.108854bb27dee2dce854.ttf",
+    "static/media/section3-text1.png": "/static/media/section3-text1.50e5729baeb640d4de7b.png",
+    "static/media/bg_section1.png": "/static/media/bg_section1.b2141669bc67c85b66a8.png",
+    "static/media/section3-text.png": "/static/media/section3-text.d49207ab35584200f801.png",
+    "static/media/bg.png": "/static/media/bg.9df8340ace3467757e59.png",
+    "static/media/section4-text.png": "/static/media/section4-text.67028cad5e30490bc8ef.png",
+    "static/media/bg_section4.png": "/static/media/bg_section4.b5d872372df77db05c16.png",
+    "static/media/Gotham-Light.otf": "/static/media/Gotham-Light.59aa40045d8df0b87a73.otf",
+    "static/media/bg_section2.png": "/static/media/bg_section2.3fef7150fd44b38825fc.png",
+    "static/media/section1-text.png": "/static/media/section1-text.295c6e48e050978b67fb.png",
+    "index.html": "/index.html",
+    "main.fa50ee75.css.map": "/static/css/main.fa50ee75.css.map",
+    "main.b002c5ca.js.map": "/static/js/main.b002c5ca.js.map",
+    "787.36d54bfe.chunk.js.map": "/static/js/787.36d54bfe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa50ee75.css",
+    "static/js/main.b002c5ca.js"
+  ]
+}
